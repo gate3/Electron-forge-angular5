@@ -1,4 +1,8 @@
-# Pvc Location Finder
+# Angular5 electron-forge template
 
-This is open source project that helps find locations where you can register for your voters registration card.
+I let it work with both electron forge and angular cli. Clone the repo to get started.
+
+To use electron forge, simply do electron-forge start or npm run forge-start.
+
+While your angular cli works as it should.
 
