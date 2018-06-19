@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+.full-height{
+    height: 100vh;
+}
+
+div.page-container{
+    margin-top: 5%;
+    padding: 20px;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+@media (max-width: 767px){
+    .banner-content {
+        margin-top: 20px !important;
+    }
+}
+
+div.three-bounce-spinner div{
+    background-color: #fff !important;
+}
+
+.map-container{
+    width: 100%;
+    height: 90%;
+    margin-top: 20px;
+}
+
+.agm-map-container-inner{
+    height: 100% !important;
+}
